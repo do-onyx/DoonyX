@@ -1,6 +1,6 @@
 # DoonyX
 
-[DoonyX](//www.doonyx.com) is a free online tools hub, It has  many cross-domain tools for every need. From business to education, finance to health - solve your daily problem.
+[DoonyX](https://doonyx.com) is a free online tools hub, It has  many cross-domain tools for every need. From business to education, finance to health - solve your daily problem.
 
 Since **DoonyX** is not fully open-source, this repository serves as a place for bug reports, feature requests, and general discussion.
 
